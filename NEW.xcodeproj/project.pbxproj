@@ -8,22 +8,54 @@
 
 /* Begin PBXBuildFile section */
 		D95CB8502316B9340060F7D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB84F2316B9340060F7D8 /* AppDelegate.swift */; };
-		D95CB8522316B9340060F7D8 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8512316B9340060F7D8 /* FirstViewController.swift */; };
-		D95CB8542316B9340060F7D8 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8532316B9340060F7D8 /* SecondViewController.swift */; };
 		D95CB8572316B9340060F7D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D95CB8552316B9340060F7D8 /* Main.storyboard */; };
 		D95CB8592316B9380060F7D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95CB8582316B9380060F7D8 /* Assets.xcassets */; };
 		D95CB85C2316B9380060F7D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D95CB85A2316B9380060F7D8 /* LaunchScreen.storyboard */; };
+		D95CB8642316C8410060F7D8 /* BoatPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8632316C8400060F7D8 /* BoatPiece.swift */; };
+		D95CB8662316C85C0060F7D8 /* Ergo.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8652316C85C0060F7D8 /* Ergo.swift */; };
+		D95CB8682316C88A0060F7D8 /* MatrixLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8672316C88A0060F7D8 /* MatrixLink.swift */; };
+		D95CB86A2316C88F0060F7D8 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8692316C88F0060F7D8 /* Person.swift */; };
+		D95CB86C2316C8950060F7D8 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB86B2316C8950060F7D8 /* Login.swift */; };
+		D95CB86E2316C89B0060F7D8 /* Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB86D2316C89A0060F7D8 /* Matrix.swift */; };
+		D95CB8702316C8A00060F7D8 /* Pieces.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB86F2316C8A00060F7D8 /* Pieces.swift */; };
+		D95CB8722316C8A50060F7D8 /* Seatrace.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8712316C8A50060F7D8 /* Seatrace.swift */; };
+		D95CB8742316C8AA0060F7D8 /* PersonPiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8732316C8A90060F7D8 /* PersonPiece.swift */; };
+		D95CB8762316C8AE0060F7D8 /* SeatracePerson.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8752316C8AE0060F7D8 /* SeatracePerson.swift */; };
+		D95CB8782316C8B30060F7D8 /* PGMT.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8772316C8B30060F7D8 /* PGMT.swift */; };
+		D95CB87A2316C8B70060F7D8 /* StoredBoats.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8792316C8B70060F7D8 /* StoredBoats.swift */; };
+		D95CB87C2316CC220060F7D8 /* ErgoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB87B2316CC220060F7D8 /* ErgoViewController.swift */; };
+		D95CB87E2316CC850060F7D8 /* AdminViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB87D2316CC850060F7D8 /* AdminViewController.swift */; };
+		D95CB8802316D00B0060F7D8 /* SeatraceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB87F2316D00B0060F7D8 /* SeatraceViewController.swift */; };
+		D95CB8822316D0170060F7D8 /* MatrixViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8812316D0170060F7D8 /* MatrixViewController.swift */; };
+		D95CB8842316D0260060F7D8 /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8832316D0260060F7D8 /* TimerViewController.swift */; };
+		D95CB8862316D0410060F7D8 /* PiecesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95CB8852316D0410060F7D8 /* PiecesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D95CB84C2316B9340060F7D8 /* NEW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NEW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D95CB84F2316B9340060F7D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D95CB8512316B9340060F7D8 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		D95CB8532316B9340060F7D8 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		D95CB8562316B9340060F7D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D95CB8582316B9380060F7D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D95CB85B2316B9380060F7D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D95CB85D2316B9380060F7D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D95CB8632316C8400060F7D8 /* BoatPiece.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoatPiece.swift; sourceTree = "<group>"; };
+		D95CB8652316C85C0060F7D8 /* Ergo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Ergo.swift; sourceTree = "<group>"; };
+		D95CB8672316C88A0060F7D8 /* MatrixLink.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MatrixLink.swift; sourceTree = "<group>"; };
+		D95CB8692316C88F0060F7D8 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		D95CB86B2316C8950060F7D8 /* Login.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
+		D95CB86D2316C89A0060F7D8 /* Matrix.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Matrix.swift; sourceTree = "<group>"; };
+		D95CB86F2316C8A00060F7D8 /* Pieces.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pieces.swift; sourceTree = "<group>"; };
+		D95CB8712316C8A50060F7D8 /* Seatrace.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Seatrace.swift; sourceTree = "<group>"; };
+		D95CB8732316C8A90060F7D8 /* PersonPiece.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonPiece.swift; sourceTree = "<group>"; };
+		D95CB8752316C8AE0060F7D8 /* SeatracePerson.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeatracePerson.swift; sourceTree = "<group>"; };
+		D95CB8772316C8B30060F7D8 /* PGMT.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PGMT.swift; sourceTree = "<group>"; };
+		D95CB8792316C8B70060F7D8 /* StoredBoats.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoredBoats.swift; sourceTree = "<group>"; };
+		D95CB87B2316CC220060F7D8 /* ErgoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErgoViewController.swift; sourceTree = "<group>"; };
+		D95CB87D2316CC850060F7D8 /* AdminViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdminViewController.swift; sourceTree = "<group>"; };
+		D95CB87F2316D00B0060F7D8 /* SeatraceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeatraceViewController.swift; sourceTree = "<group>"; };
+		D95CB8812316D0170060F7D8 /* MatrixViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixViewController.swift; sourceTree = "<group>"; };
+		D95CB8832316D0260060F7D8 /* TimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
+		D95CB8852316D0410060F7D8 /* PiecesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiecesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +89,24 @@
 			isa = PBXGroup;
 			children = (
 				D95CB84F2316B9340060F7D8 /* AppDelegate.swift */,
-				D95CB8512316B9340060F7D8 /* FirstViewController.swift */,
-				D95CB8532316B9340060F7D8 /* SecondViewController.swift */,
+				D95CB8632316C8400060F7D8 /* BoatPiece.swift */,
+				D95CB8652316C85C0060F7D8 /* Ergo.swift */,
+				D95CB8672316C88A0060F7D8 /* MatrixLink.swift */,
+				D95CB8692316C88F0060F7D8 /* Person.swift */,
+				D95CB86B2316C8950060F7D8 /* Login.swift */,
+				D95CB86D2316C89A0060F7D8 /* Matrix.swift */,
+				D95CB86F2316C8A00060F7D8 /* Pieces.swift */,
+				D95CB8732316C8A90060F7D8 /* PersonPiece.swift */,
+				D95CB87B2316CC220060F7D8 /* ErgoViewController.swift */,
+				D95CB87D2316CC850060F7D8 /* AdminViewController.swift */,
+				D95CB87F2316D00B0060F7D8 /* SeatraceViewController.swift */,
+				D95CB8812316D0170060F7D8 /* MatrixViewController.swift */,
+				D95CB8832316D0260060F7D8 /* TimerViewController.swift */,
+				D95CB8852316D0410060F7D8 /* PiecesViewController.swift */,
+				D95CB8772316C8B30060F7D8 /* PGMT.swift */,
+				D95CB8752316C8AE0060F7D8 /* SeatracePerson.swift */,
+				D95CB8792316C8B70060F7D8 /* StoredBoats.swift */,
+				D95CB8712316C8A50060F7D8 /* Seatrace.swift */,
 				D95CB8552316B9340060F7D8 /* Main.storyboard */,
 				D95CB8582316B9380060F7D8 /* Assets.xcassets */,
 				D95CB85A2316B9380060F7D8 /* LaunchScreen.storyboard */,
@@ -138,9 +186,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D95CB8542316B9340060F7D8 /* SecondViewController.swift in Sources */,
+				D95CB8702316C8A00060F7D8 /* Pieces.swift in Sources */,
+				D95CB8762316C8AE0060F7D8 /* SeatracePerson.swift in Sources */,
+				D95CB8742316C8AA0060F7D8 /* PersonPiece.swift in Sources */,
+				D95CB87E2316CC850060F7D8 /* AdminViewController.swift in Sources */,
+				D95CB86E2316C89B0060F7D8 /* Matrix.swift in Sources */,
+				D95CB86A2316C88F0060F7D8 /* Person.swift in Sources */,
+				D95CB87A2316C8B70060F7D8 /* StoredBoats.swift in Sources */,
+				D95CB8862316D0410060F7D8 /* PiecesViewController.swift in Sources */,
+				D95CB8642316C8410060F7D8 /* BoatPiece.swift in Sources */,
+				D95CB8662316C85C0060F7D8 /* Ergo.swift in Sources */,
+				D95CB86C2316C8950060F7D8 /* Login.swift in Sources */,
+				D95CB8842316D0260060F7D8 /* TimerViewController.swift in Sources */,
+				D95CB8822316D0170060F7D8 /* MatrixViewController.swift in Sources */,
+				D95CB87C2316CC220060F7D8 /* ErgoViewController.swift in Sources */,
+				D95CB8722316C8A50060F7D8 /* Seatrace.swift in Sources */,
+				D95CB8782316C8B30060F7D8 /* PGMT.swift in Sources */,
+				D95CB8682316C88A0060F7D8 /* MatrixLink.swift in Sources */,
+				D95CB8802316D00B0060F7D8 /* SeatraceViewController.swift in Sources */,
 				D95CB8502316B9340060F7D8 /* AppDelegate.swift in Sources */,
-				D95CB8522316B9340060F7D8 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
